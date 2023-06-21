@@ -18,3 +18,8 @@ Provide a brief description of the project and its goals. This can help the infr
 Provide a list of subdomain name under ciroh.org.
 Example)
 example.ciroh.org
+
+**4.	url of serving address:**
+The urls that the subdomain will be mapping to.
+Example)
+dev-example.aws.com
