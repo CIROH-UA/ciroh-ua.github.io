@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[4281],{1036:s=>{s.exports=JSON.parse('{"label":"AWS","permalink":"/docs/tags/aws","allTagsPath":"/docs/tags","count":1,"items":[{"id":"services/cloudservices/aws/aws","title":"AWS Infrastructure","description":"AWS Research Cloud","permalink":"/docs/services/cloudservices/aws/"}]}')}}]);
