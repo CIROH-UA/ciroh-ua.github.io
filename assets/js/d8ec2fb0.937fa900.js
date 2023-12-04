@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[748],{2574:t=>{t.exports=JSON.parse('{"label":"tethys","permalink":"/docs/tags/tethys","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/tools/tethysportal/tethysportal","title":"TETHYS","description":"Tethys Apps Portal","permalink":"/docs/products/tools/tethysportal/"}]}')}}]);

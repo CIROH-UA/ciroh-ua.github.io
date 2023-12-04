@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[7767],{6636:e=>{e.exports=JSON.parse('{"label":"NextGen","permalink":"/docs/tags/next-gen","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/tools/nextgeninabox/news","title":"News","description":"","permalink":"/docs/products/tools/nextgeninabox/news"}],"unlisted":false}')}}]);
