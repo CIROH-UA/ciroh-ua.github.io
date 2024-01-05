@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2023-11-30T00:00:00.000Z</updated>
+    <updated>2023-12-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NextGen Monthly News Update - December 2023]]></title>
+        <id>http://ciroh.org/blog/NextGen Updates Dec 2023</id>
+        <link href="http://ciroh.org/blog/NextGen Updates Dec 2023"/>
+        <updated>2023-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[News and release notes for NextGen]]></summary>
+        <content type="html"><![CDATA[<p>Happy New Year!!! We are back from SFO after attending AGU last month. We are excited to share the latest updates for NGIAB, NextGen, T-route, Hydrofabric, NextGen forcings, and Community Support from December 2023.</p>
+<p><a href="http://ciroh.org/docs/products/tools/nextgeninabox/news">Visit NGIAB News</a></p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Zach Wills</name>
+            <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
+        </author>
+        <category label="nextgen" term="nextgen"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NextGen In A Box v1.1.0 Release]]></title>
         <id>http://ciroh.org/blog/NextGen In A Box Release Notes</id>
