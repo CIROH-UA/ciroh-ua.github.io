@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[6324],{3575:s=>{s.exports=JSON.parse('{"label":"News","permalink":"/docs/tags/news","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/tools/nextgeninabox/news","title":"News","description":"","permalink":"/docs/products/tools/nextgeninabox/news"}],"unlisted":false}')}}]);
