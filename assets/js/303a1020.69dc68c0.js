@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[7883],{9265:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/nextgen","page":1,"postsPerPage":9,"totalPages":1,"totalCount":9,"blogDescription":"A DocuHub powered blog!","blogTitle":"DocuHub blog!"}')}}]);
