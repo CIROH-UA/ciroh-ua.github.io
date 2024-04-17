@@ -2,11 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2024-03-31T00:00:00.000Z</updated>
+    <updated>2024-04-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AWRA 2024 Spring Conference]]></title>
+        <id>http://ciroh.org/blog/AWRA 2024 Spring Conference</id>
+        <link href="http://ciroh.org/blog/AWRA 2024 Spring Conference"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AWRA 2024 Spring Conference]]></summary>
+        <content type="html"><![CDATA[<p><strong>AWRA 2024 Spring Conference</strong></p>
+<p>The <strong>CIROH CyberInfrastructure team</strong> recently participated in the <strong>AWRA 2024 Spring Conference</strong>, co-hosted by the Alabama Water Institute at the University of Alabama.</p>
+<p>Themed "Water Risk and Resilience: Research and Sustainable Solutions," the conference brought together a diverse group of water professionals to exchange knowledge and explore cutting-edge research in the field.</p>
+<p>CIROH team member <strong>James Halgren</strong> presented the work on <strong>"Accelerating Community Contribution to the Next Generation Water Resources Modeling Framework." The presentation focused on building and sharing a continuous research data stream using the NextGen Water Resources Modeling Framework with NextGen IN A Box (NGIAB).</strong> This project, a collaboration with Lynker members, showcases the potential for open-source tools and community-driven efforts to advance water resources modeling and research.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/awra2024.jpeg" alt="AWRA2024Spring" style="width:80%"></div>
+<p>CIROH team member <strong>Sepehr Karimi</strong> presented the work on <strong>"Creating a community dataset for high-speed national water model data access"</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/awra2024-2.png" alt="AWRA2024Spring" style="width:80%"></div>
+<p>CIROH team member <strong>Shahab Alam</strong> presented the work on <strong>"Model structure selection for the flood and drought predictions using the NextGen Framework based on the extreme event simulations"</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/awra2024-3.png" alt="AWRA2024Spring" style="width:80%"></div>
+<p>The conference provided a valuable platform for CIROH to share its expertise and connect with other water professionals dedicated to finding sustainable solutions to water-related challenges. The team's presentation was well-received, sparking insightful discussions and potential collaborations for future projects.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="awra" term="awra"/>
+        <category label="tuscaloosa" term="tuscaloosa"/>
+        <category label="conference" term="conference"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Next '24: A Flood of Innovation and Inspiration]]></title>
+        <id>http://ciroh.org/blog/Google Cloud Next 2024</id>
+        <link href="http://ciroh.org/blog/Google Cloud Next 2024"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloud Next '24: Las Vegas]]></summary>
+        <content type="html"><![CDATA[<p><strong>Google Cloud Next '24: A Flood of Innovation and Inspiration</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/GoogleCloudNext2024.png" alt="GoogleCloudNext2024" style="width:80%"></div>
+<p>Hello everyone, and thanks for stopping by!</p>
+<p>I recently had the incredible opportunity to attend Google Cloud Next 2024 in person for the first time, and it was truly an <strong>amazing experience</strong>. From <strong>insightful keynote presentations and workshops to vibrant booths</strong> buzzing with connections, the event was a whirlwind of innovation and inspiration.</p>
+<p>One of the highlights was undoubtedly the abundance of AI announcements and advancements. Google continues to push the boundaries of what's possible, and it was exciting to witness the future of technology unfold.</p>
+<p>Among the many highlights, <strong>CIROH</strong> achieved a significant milestone with its <strong>first-ever session at Google Cloud Next</strong>. The presentation, titled <strong>"Channel the Flood Data Deluge: Unlocking the American National Water Model,"</strong> <a href="https://cloud.withgoogle.com/next/session-library?session=DEV209&amp;utm_source=copylink&amp;utm_medium=unpaidsoc&amp;utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&amp;utm_content=next-homepage-social-share&amp;utm_term=-#all%3E" target="_blank" rel="noopener noreferrer">link</a> led by <strong>Kel Markert (Google), Dr. Dan Ames (BYU), and Michael Ames(SADA)</strong> was a resounding success. The session <a href="https://assets.swoogo.com/uploads/3771985-6615e3b5da2cf.pdf" target="_blank" rel="noopener noreferrer">link</a> shed light on the immense potential of the National Water Model and its ability to revolutionize water resource management.</p>
+<p>The <strong>energy and enthusiasm</strong> throughout the event were contagious, and I left feeling incredibly <strong>motivated and inspired</strong>. I connected with numerous individuals from diverse backgrounds, fostering <strong>new collaborations</strong> and sparking exciting ideas for the future of water research and technology.</p>
+<p>If you're curious to see more about my Google Cloud Next experience, head over to <strong>my LinkedIn post <a href="https://www.linkedin.com/in/arpita0911patel/" target="_blank" rel="noopener noreferrer">link</a></strong> where I've shared pictures from all three days.</p>
+<p>Thank you for reading and stay tuned for more updates on the exciting advancements in water research and technology!</p>
+<p><strong>Want to delve deeper into the insights and announcements from Google Cloud Next?</strong> Check out these valuable resources:</p>
+<p><strong>SADA Live:</strong> Recap Key Cloud Technology Insights from Google Cloud Next '24: <a href="https://www.linkedin.com/events/sadalive-recapkeycloudtechnolog7181342146724073472/" target="_blank" rel="noopener noreferrer">link</a>
+This LinkedIn event offers a comprehensive overview of the key takeaways and technological advancements unveiled at the conference.</p>
+<p><strong>Day 2 Google Blog Recap:</strong> Dive into the specifics of Day 2 at Google Cloud Next with this insightful blog post, covering topics ranging from AI and data analytics to infrastructure and security. <a href="https://cloud.google.com/blog/topics/google-cloud-next/next24-day-2-recap?utm_source=linkedin&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy24q1-googlecloud-blog-ai-in_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-" target="_blank" rel="noopener noreferrer">link</a></p>
+<p><strong>AI Takes Center Stage:</strong></p>
+<ul>
+<li><strong>Gemini for Google Cloud:</strong> The introduction of Gemini 1.5 Pro, integrated with various Google Cloud services, promises enhanced functionality, security, and AI performance across diverse applications.</li>
+<li><strong>AI Infrastructure Advancements:</strong> The AI Hypercomputer provides exceptional computational power for complex AI tasks, while Gemini API now offers models tailored for various scales, enriching the development environment.</li>
+<li><strong>Vertex AI Enhancements:</strong> New tools for low-latency applications and improved Gemini integration empower developers to build more efficient and sophisticated AI-driven applications.</li>
+<li><strong>Secure AI Framework (SAIF):</strong> Establishes rigorous security standards for AI implementations, ensuring secure and responsible AI integrations.</li>
+<li><strong>AI Database Assistant:</strong> Leverages Gemini to simplify complex queries and deepen AI integration into database management.</li>
+<li><strong>Google Vids:</strong> This innovative Workspace feature utilizes Gemini and Vertex AI to enhance digital storytelling and collaboration, revolutionizing workplace communication.</li>
+</ul>
+<p><strong>Infrastructure and Development:</strong></p>
+<ul>
+<li>
+<p><strong>Google Axion Processor:</strong> This cutting-edge processor boasts significant performance and energy efficiency improvements compared to traditional x86 instances, setting a new standard for computational efficiency.
+<a href="https://lnkd.in/g544-Tdt" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+<li>
+<p><strong>Google Distributed Cloud (GDC) Sandbox:</strong> Enables developers to build and test services for GDC within a Google Cloud environment, simplifying the development process.
+<a href="https://lnkd.in/gcDBFt4t" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+<li>
+<p><strong>Migrate to Containers (M2C) CLI:</strong> This new tool facilitates seamless migration of applications to containers, supporting deployment on GKE or Cloud Run.
+<a href="https://lnkd.in/gz_AmHCY" target="_blank" rel="noopener noreferrer">link</a></p>
+</li>
+</ul>
+<p><strong>Security and Data Analytics:</strong></p>
+<ul>
+<li><strong>AI Cyber Defense Initiative:</strong> Revolutionizes cybersecurity by leveraging AI for innovative solutions against cyber threats.</li>
+<li><strong>BigQuery as a Unified Platform:</strong> Transforms BigQuery into a comprehensive platform for managing multimodal data and executing AI tasks, seamlessly integrated with Gemini.<br>
+<!-- -->Check out all the announcements:  <a href="https://lnkd.in/gNGYrg44" target="_blank" rel="noopener noreferrer">link</a></li>
+</ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="google" term="google"/>
+        <category label="googlecloud" term="googlecloud"/>
+        <category label="googlecloudnext" term="googlecloudnext"/>
+        <category label="conference" term="conference"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monthly News Update - March 2024]]></title>
         <id>http://ciroh.org/blog/Community NextGen Updates March 2024</id>
