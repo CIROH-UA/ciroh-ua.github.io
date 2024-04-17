@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[7070],{9883:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/water-resources","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"A DocuHub powered blog!","blogTitle":"DocuHub blog!"}')}}]);
