@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[5261],{5923:s=>{s.exports=JSON.parse('{"label":"repository","permalink":"/docs/tags/repository","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/hydroshare/index","title":"HydroShare","description":"HydroShare","permalink":"/docs/products/hydroshare/"}],"unlisted":false}')}}]);
