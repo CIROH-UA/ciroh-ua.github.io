@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[9930],{9872:e=>{e.exports=JSON.parse('{"label":"HydroLearn","permalink":"/docs/tags/hydro-learn","allTagsPath":"/docs/tags","count":1,"items":[{"id":"education/Hydrolearn/index","title":"HydroLearn","description":"hydrolearn","permalink":"/docs/education/Hydrolearn/"}],"unlisted":false}')}}]);
