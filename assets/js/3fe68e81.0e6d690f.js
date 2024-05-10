@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[4281],{7291:s=>{s.exports=JSON.parse('{"label":"roset","permalink":"/docs/tags/roset","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/cses/index","title":"CSES","description":"Community Streamflow Evaluation System","permalink":"/docs/products/cses/"}],"unlisted":false}')}}]);
