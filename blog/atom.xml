@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2024-04-16T00:00:00.000Z</updated>
+    <updated>2024-05-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIROH Developers Conference 2024]]></title>
+        <id>http://ciroh.org/blog/CIROH Developers Conference 2024</id>
+        <link href="http://ciroh.org/blog/CIROH Developers Conference 2024"/>
+        <updated>2024-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CIROH Developers Conference 2024]]></summary>
+        <content type="html"><![CDATA[<p><strong>CIROH Developers Conference 2024</strong></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_01.jpeg" alt="GoogleCloudNext2024" style="width:80%"></div>
+<p>The CIROH team recently participated in the <strong>2nd Annual CIROH Developers Conference (DevCon24)</strong>, held from May 29th to June 1st,2024. The conference brought together a diverse group of water professionals to exchange knowledge and explore cutting-edge research in the field of hydrological forecasting.</p>
+<p>Reflecting CIROH's current research focus, the conference explored topics including hydrological modeling (NextGen), flood inundation mapping, hydroinformatics, social science, and community engagement. Attendees got the opportunity to delve deeper into specific areas through its well-structured training track. This year the tracks were:</p>
+<ul>
+<li><strong>NextGen</strong></li>
+<li><strong>Flood Inundation Mapping (FIM)</strong></li>
+<li><strong>Hydrological Applications of Machine Learning (ML)</strong></li>
+<li><strong>Hydroinformatics</strong></li>
+<li><strong>Cross-cutting</strong></li>
+</ul>
+<p>This year, various workshops leveraged cloud technologies. Notably, we provided access to the 2i2c JupyterHub environment, a cloud-based platform for interactive computing, for ten workshops. This facilitated seamless access to powerful computing resources for participants. Additionally, we provided AWS instances to support four workshops.</p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_02.jpeg" alt="GoogleCloudNext2024" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_04.jpg" alt="GoogleCloudNext2024" style="width:80%"></div>
+<br>
+<p><strong>Presentation Slides:</strong></p>
+<p>You can find the presentation slides <a href="https://github.com/CIROH-UA/Conferences/tree/main/CIROHDevCon2024/NextGenTrack" target="_blank" rel="noopener noreferrer">here</a>. To learn more about CIROH's work or connect with the team, visit our website at <a href="https://ciroh.ua.edu/" target="_blank" rel="noopener noreferrer">CIROH-website</a>.</p>
+<p><strong>Conference Website:</strong></p>
+<p><a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">Learn More</a></p>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_05.jpg" alt="GoogleCloudNext2024" style="width:80%"></div>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="tuscaloosa" term="tuscaloosa"/>
+        <category label="conference" term="conference"/>
+        <category label="water resources" term="water resources"/>
+        <category label="ngiab" term="ngiab"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWRA 2024 Spring Conference]]></title>
         <id>http://ciroh.org/blog/AWRA 2024 Spring Conference</id>
