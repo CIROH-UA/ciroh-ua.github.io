@@ -4,10 +4,55 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
+            <link>http://ciroh.org/blog/July Monthly IT Update</link>
+            <guid>http://ciroh.org/blog/July Monthly IT Update</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[July Monthly IT Update]]></description>
+            <content:encoded><![CDATA[<p>We're excited to share some recent developments and updates from CIROH's Research CyberInfrastructure team:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cloud-infrastructure">Cloud Infrastructure<a href="http://ciroh.org/blog/July%20Monthly%20IT%20Update#cloud-infrastructure" class="hash-link" aria-label="Direct link to Cloud Infrastructure" title="Direct link to Cloud Infrastructure">​</a></h3>
+<ul>
+<li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can finde more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google%20cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>We're in the process of migrating our 2i2c JupyterHub to CIROH's Google Cloud account.</li>
+<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-and-services">Support and Services<a href="http://ciroh.org/blog/July%20Monthly%20IT%20Update#support-and-services" class="hash-link" aria-label="Direct link to Support and Services" title="Direct link to Support and Services">​</a></h3>
+<ul>
+<li>Monthly AWS office hours are ongoing. For more details on how to join, email us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</li>
+<li>We provided IT support for the Summer Institute 2024, REU students, and team leads this summer.</li>
+</ul>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/summer-institute.jpg" alt="summer-institute-students" style="width:80%"></div>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/reu.jpg" alt="reu-institute-students" style="width:80%"></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-enhancements">Security Enhancements<a href="http://ciroh.org/blog/July%20Monthly%20IT%20Update#security-enhancements" class="hash-link" aria-label="Direct link to Security Enhancements" title="Direct link to Security Enhancements">​</a></h3>
+<ul>
+<li>New security features have been added to our CIROH-UA GitHub repository to prevent commits containing sensitive information.</li>
+<li>We've updated our AWS best practices, particularly regarding key management. If your project uses CIROH AWS resources, please review these updates at <a href="https://docs.ciroh.org/docs/services/cloudservices/aws/AWS%20best%20Practices/" target="_blank" rel="noopener noreferrer">AWS Best Practices</a>.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="resources-and-access">Resources and Access<a href="http://ciroh.org/blog/July%20Monthly%20IT%20Update#resources-and-access" class="hash-link" aria-label="Direct link to Resources and Access" title="Direct link to Resources and Access">​</a></h3>
+<ul>
+<li>For external IT resources needed for your projects, check out NSF Access Allocations <a href="https://docs.ciroh.org/docs/services/external-resources/nsf-access/" target="_blank" rel="noopener noreferrer">here.</a></li>
+<li>GPU allocation is now available on CIROH's 2i2c JupyterHub. To request access, please fill out <a href="https://forms.office.com/pages/responsepage.aspx?id=jnIAKtDwtECk6M5DPz-8p4IIpHdEnmhNgjOa9FjrwGtUNlpMNTIwT0ZHUjg5VzdTNzNOSVk5OEFNMC4u" target="_blank" rel="noopener noreferrer">this form.</a></li>
+</ul>
+<div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/si.jpg" alt="summer-institute-students" style="width:80%"></div>
+<p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
+<p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content:encoded>
+            <category>ciroh</category>
+            <category>tuscaloosa</category>
+            <category>2i2c</category>
+            <category>gcp</category>
+            <category>gpu</category>
+            <category>si</category>
+            <category>reu</category>
+            <category>bigquery</category>
+            <category>api</category>
+            <category>aws</category>
+            <category>nsf access</category>
+        </item>
         <item>
             <title><![CDATA[CIROH Developers Conference 2024]]></title>
             <link>http://ciroh.org/blog/CIROH Developers Conference 2024</link>
