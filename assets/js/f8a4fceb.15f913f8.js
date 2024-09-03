@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[6998],{5594:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/2-i-2-c","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"A DocuHub powered blog!","blogTitle":"DocuHub blog!"}')}}]);
