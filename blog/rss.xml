@@ -76,7 +76,7 @@
 <ul>
 <li>CIROH's Google Cloud Account is now fully operational and managed by our team. You can find more information <a href="https://docs.ciroh.org/docs/services/cloudservices/google%20cloud/" target="_blank" rel="noopener noreferrer">here.</a></li>
 <li>We're in the process of migrating our 2i2c JupyterHub to CIROH's Google Cloud account.</li>
-<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
+<li>We've successfully deployed the Google BigQuery API (developed by BYU and Google) for NWM data in our cloud. To access this API, please contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Please refer to <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigqeury-api/" target="_blank" rel="noopener noreferrer">NWM BigQuery API</a> to learn more.</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-and-services">Support and Services<a href="http://ciroh.org/blog/July%20Monthly%20IT%20Update#support-and-services" class="hash-link" aria-label="Direct link to Support and Services" title="Direct link to Support and Services">​</a></h3>
 <ul>
@@ -265,14 +265,14 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
 </li>
 <li>
-<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docs/products/dataaccess">here</a>.</p>
+<p>We've added documentation for the NWMURL python package, which offers utility functions tailored for accessing National Water Model (NWM) data URLs. This library streamlines the process of accessing NWM data for various purposes, including analysis, modeling, and visualization. You can explore the documentation <a href="http://ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/dataaccess/">here</a>.</p>
 </li>
 <li>
 <p>We're thrilled to announce the NextGen Track for DevCon24. The schedule is now available at: <a href="https://ciroh.ua.edu/devconference/" target="_blank" rel="noopener noreferrer">DevCon24 Schedule</a>.</p>
 </li>
 </ol>
 <p>Thank you for your ongoing interest and support in the Community NextGen project. Stay tuned for more exciting updates and developments next month. 😊</p>
-<p><a href="http://ciroh.org/docs/products/community-nextgen/nextgeninaboxDocker/">Click Here to Visit Community NextGen and NGIAB News from Feb 2024</a></p>]]></content:encoded>
+<p><a href="https://docs.ciroh.org/news/" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from Feb 2024</a></p>]]></content:encoded>
             <category>nextgen</category>
             <category>ciroh</category>
             <category>community-nextgen</category>
