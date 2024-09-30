@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[1646],{4763:s=>{s.exports=JSON.parse('{"label":"2i2c","permalink":"/blog/tags/2-i-2-c","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
