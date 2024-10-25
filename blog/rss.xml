@@ -39,13 +39,14 @@
 <li><strong>Open Science Promotion</strong>: By making NWM data more accessible, this partnership supports the principles of open science, encouraging transparency and reproducibility in water resource research.</li>
 </ul>
 <p>This public-private partnership not only enhances the value of the National Water Model but also sets a precedent for future collaborations that can drive innovation in environmental data management and analysis.</p>]]></content:encoded>
-            <category>BigQuery</category>
-            <category>BYU</category>
-            <category>NWM</category>
-            <category>CIROH</category>
-            <category>Google</category>
-            <category>Cloud</category>
-            <category>API</category>
+            <category>bigquery</category>
+            <category>byu</category>
+            <category>nwm</category>
+            <category>ciroh</category>
+            <category>google</category>
+            <category>cloud</category>
+            <category>api</category>
+            <category>partnership</category>
         </item>
         <item>
             <title><![CDATA[CIROH Cloud User Success Story]]></title>
@@ -93,16 +94,14 @@
 <li><strong>Simple Storage Service (S3)</strong> - Bucket storage for large public and private datasets</li>
 </ul>]]></content:encoded>
             <category>ciroh</category>
-            <category>tuscaloosa</category>
             <category>2i2c</category>
-            <category>gcp</category>
-            <category>gpu</category>
-            <category>si</category>
-            <category>reu</category>
-            <category>bigquery</category>
-            <category>api</category>
             <category>aws</category>
-            <category>nsf access</category>
+            <category>google</category>
+            <category>nextgen</category>
+            <category>jupyterhub</category>
+            <category>hpc</category>
+            <category>teehr</category>
+            <category>ngen</category>
         </item>
         <item>
             <title><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
@@ -138,16 +137,14 @@
 <p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
 <p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content:encoded>
             <category>ciroh</category>
-            <category>tuscaloosa</category>
             <category>2i2c</category>
-            <category>gcp</category>
+            <category>google</category>
             <category>gpu</category>
-            <category>si</category>
             <category>reu</category>
             <category>bigquery</category>
             <category>api</category>
             <category>aws</category>
-            <category>nsf access</category>
+            <category>nsf</category>
         </item>
         <item>
             <title><![CDATA[CIROH Developers Conference 2024]]></title>
@@ -177,10 +174,11 @@
 <div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_02.jpeg" alt="DevCon2024" style="width:80%"></div>
 <div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/devcon24_05.jpg" alt="DevCon2024" style="width:80%"></div>]]></content:encoded>
             <category>ciroh</category>
-            <category>tuscaloosa</category>
             <category>conference</category>
-            <category>water resources</category>
-            <category>ngiab</category>
+            <category>hydrology</category>
+            <category>training</category>
+            <category>nextgen</category>
+            <category>resources</category>
         </item>
         <item>
             <title><![CDATA[AWRA 2024 Spring Conference]]></title>
@@ -284,9 +282,10 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p>Empowering our community remains a top priority. We've expanded the DocuHub knowledge base with dedicated sections on on-premises access guidelines, as well as policies and best practices for optimized infrastructure usage <a href="http://ciroh.org/docs/policies/intro">here</a> . Furthermore, our team represented CIROH at the AWRA Geospatial Water Technology Conference in Orlando, sharing insights on leveraging geospatial data for water research. Refer <a href="https://github.com/CIROH-UA/Conferences/tree/main/2024-03-26_AWRA_GeospatialWaterTechnology" target="_blank" rel="noopener noreferrer">here</a></p>
 <p>As we continue driving advancements, we extend our gratitude for your unwavering support of the Community NextGen project and CIROH's cyberinfrastructure endeavors. Be on the lookout for more exciting updates next month as we strive to unlock new frontiers in water science through robust computing capabilities.</p>
 <p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from March 2024</a></p>]]></content:encoded>
-            <category>nextgen</category>
             <category>ciroh</category>
             <category>community-nextgen</category>
+            <category>news</category>
+            <category>singularity</category>
         </item>
         <item>
             <title><![CDATA[Monthly News Update - February 2024]]></title>
@@ -312,9 +311,11 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 </ol>
 <p>Thank you for your ongoing interest and support in the Community NextGen project. Stay tuned for more exciting updates and developments next month. 😊</p>
 <p><a href="https://docs.ciroh.org/news/" target="_blank" rel="noopener noreferrer">Click Here to Visit Community NextGen and NGIAB News from Feb 2024</a></p>]]></content:encoded>
-            <category>nextgen</category>
             <category>ciroh</category>
             <category>community-nextgen</category>
+            <category>on-premises</category>
+            <category>nwm</category>
+            <category>news</category>
         </item>
         <item>
             <title><![CDATA[NextGen Monthly News Update - January 2024]]></title>
@@ -328,7 +329,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p>Third, we would like to share with you is the development of NextGen Datastream, a tool that automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. The NextGen Datastream is a shell script that orchestrates each step in the process, using a configuration file that specifies the data sources, parameters, and options for the NextGen run. The NextGen Datastream can also generate its own internal configs and modify the configuration file as needed. You can find more details and instructions on how to use the NextGen Datastream on our GitHub repository: <a href="https://github.com/CIROH-UA/ngen-datastream/blob/main/README.md" target="_blank" rel="noopener noreferrer">ngen-datastream</a>.</p>
 <p>We hope you enjoyed this blog and found it informative and useful. If you have any questions, comments, or feedback, please feel free to contact us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>. Thank you for your interest and support in the Community NextGen project. Stay tuned for more exciting news and developments in the next month. 😊</p>
 <p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content:encoded>
-            <category>nextgen</category>
+            <category>news</category>
         </item>
         <item>
             <title><![CDATA[NextGen Monthly News Update - December 2023]]></title>
@@ -338,7 +339,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <description><![CDATA[News and release notes for NextGen]]></description>
             <content:encoded><![CDATA[<p>Happy New Year!!! We are back from SFO after attending AGU last month. We are excited to share the latest updates for NGIAB, NextGen, T-route, Hydrofabric, NextGen forcings, and Community Support from December 2023.</p>
 <p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content:encoded>
-            <category>nextgen</category>
+            <category>news</category>
         </item>
         <item>
             <title><![CDATA[NextGen In A Box v1.1.0 Release]]></title>
@@ -364,7 +365,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <description><![CDATA[News and release notes for NextGen]]></description>
             <content:encoded><![CDATA[<p>We are excited to share the latest updates for NGIAB, NextGen, T-route, Hydrofabric, NextGen forcings and Community Support.</p>
 <p><a href="https://docs.ciroh.org/news" target="_blank" rel="noopener noreferrer">Visit NGIAB News</a></p>]]></content:encoded>
-            <category>nextgen</category>
+            <category>news</category>
         </item>
         <item>
             <title><![CDATA[NextGen In A Box Updates]]></title>

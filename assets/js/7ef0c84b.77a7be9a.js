@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[8346],{28820:e=>{e.exports=JSON.parse('{"label":"water resources","permalink":"/blog/tags/water-resources","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

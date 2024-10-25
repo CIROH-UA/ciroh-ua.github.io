@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[1451],{16464:s=>{s.exports=JSON.parse('{"label":"BYU","permalink":"/blog/tags/byu","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

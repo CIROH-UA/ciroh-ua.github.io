@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[388],{85223:s=>{s.exports=JSON.parse('{"label":"singularity","permalink":"/blog/tags/singularity","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[2564],{6097:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/news","page":1,"postsPerPage":5,"totalPages":1,"totalCount":5,"blogDescription":"A DocuHub powered blog!","blogTitle":"DocuHub blog!"}')}}]);

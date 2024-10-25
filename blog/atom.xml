@@ -38,13 +38,14 @@
 <li><strong>Open Science Promotion</strong>: By making NWM data more accessible, this partnership supports the principles of open science, encouraging transparency and reproducibility in water resource research.</li>
 </ul>
 <p>This public-private partnership not only enhances the value of the National Water Model but also sets a precedent for future collaborations that can drive innovation in environmental data management and analysis.</p>]]></content>
-        <category label="BigQuery" term="BigQuery"/>
-        <category label="BYU" term="BYU"/>
-        <category label="NWM" term="NWM"/>
-        <category label="CIROH" term="CIROH"/>
-        <category label="Google" term="Google"/>
-        <category label="Cloud" term="Cloud"/>
-        <category label="API" term="API"/>
+        <category label="bigquery" term="bigquery"/>
+        <category label="byu" term="byu"/>
+        <category label="nwm" term="nwm"/>
+        <category label="ciroh" term="ciroh"/>
+        <category label="google" term="google"/>
+        <category label="cloud" term="cloud"/>
+        <category label="api" term="api"/>
+        <category label="partnership" term="partnership"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH Cloud User Success Story]]></title>
@@ -92,16 +93,14 @@
 <li><strong>Simple Storage Service (S3)</strong> - Bucket storage for large public and private datasets</li>
 </ul>]]></content>
         <category label="ciroh" term="ciroh"/>
-        <category label="tuscaloosa" term="tuscaloosa"/>
         <category label="2i2c" term="2i2c"/>
-        <category label="gcp" term="gcp"/>
-        <category label="gpu" term="gpu"/>
-        <category label="si" term="si"/>
-        <category label="reu" term="reu"/>
-        <category label="bigquery" term="bigquery"/>
-        <category label="api" term="api"/>
         <category label="aws" term="aws"/>
-        <category label="nsf access" term="nsf access"/>
+        <category label="google" term="google"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="jupyterhub" term="jupyterhub"/>
+        <category label="hpc" term="hpc"/>
+        <category label="teehr" term="teehr"/>
+        <category label="ngen" term="ngen"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH Research CyberInfrastructure Update]]></title>
@@ -137,16 +136,14 @@
 <p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
 <p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content>
         <category label="ciroh" term="ciroh"/>
-        <category label="tuscaloosa" term="tuscaloosa"/>
         <category label="2i2c" term="2i2c"/>
-        <category label="gcp" term="gcp"/>
+        <category label="google" term="google"/>
         <category label="gpu" term="gpu"/>
-        <category label="si" term="si"/>
         <category label="reu" term="reu"/>
         <category label="bigquery" term="bigquery"/>
         <category label="api" term="api"/>
         <category label="aws" term="aws"/>
-        <category label="nsf access" term="nsf access"/>
+        <category label="nsf" term="nsf"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH Developers Conference 2024]]></title>
@@ -180,10 +177,11 @@
             <uri>https://github.com/arpita0911patel</uri>
         </author>
         <category label="ciroh" term="ciroh"/>
-        <category label="tuscaloosa" term="tuscaloosa"/>
         <category label="conference" term="conference"/>
-        <category label="water resources" term="water resources"/>
-        <category label="ngiab" term="ngiab"/>
+        <category label="hydrology" term="hydrology"/>
+        <category label="training" term="training"/>
+        <category label="nextgen" term="nextgen"/>
+        <category label="resources" term="resources"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWRA 2024 Spring Conference]]></title>
@@ -299,9 +297,10 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <name>Arpita Patel</name>
             <uri>https://github.com/arpita0911patel</uri>
         </author>
-        <category label="nextgen" term="nextgen"/>
         <category label="ciroh" term="ciroh"/>
         <category label="community-nextgen" term="community-nextgen"/>
+        <category label="news" term="news"/>
+        <category label="singularity" term="singularity"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Monthly News Update - February 2024]]></title>
@@ -331,9 +330,11 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <name>Arpita Patel</name>
             <uri>https://github.com/arpita0911patel</uri>
         </author>
-        <category label="nextgen" term="nextgen"/>
         <category label="ciroh" term="ciroh"/>
         <category label="community-nextgen" term="community-nextgen"/>
+        <category label="on-premises" term="on-premises"/>
+        <category label="nwm" term="nwm"/>
+        <category label="news" term="news"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextGen Monthly News Update - January 2024]]></title>
@@ -351,7 +352,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <name>Arpita Patel</name>
             <uri>https://github.com/arpita0911patel</uri>
         </author>
-        <category label="nextgen" term="nextgen"/>
+        <category label="news" term="news"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextGen Monthly News Update - December 2023]]></title>
@@ -369,7 +370,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <name>Zach Wills</name>
             <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
         </author>
-        <category label="nextgen" term="nextgen"/>
+        <category label="news" term="news"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextGen In A Box v1.1.0 Release]]></title>
@@ -411,7 +412,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <name>Zach Wills</name>
             <uri>https://github.com/orgs/CIROH-UA/people/ZacharyWills</uri>
         </author>
-        <category label="nextgen" term="nextgen"/>
+        <category label="news" term="news"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[NextGen In A Box Updates]]></title>
