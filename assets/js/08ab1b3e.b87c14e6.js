@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[3939],{22412:e=>{e.exports=JSON.parse('{"label":"science","permalink":"/blog/tags/science","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
