@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[5223],{38227:s=>{s.exports=JSON.parse('{"label":"portal","permalink":"/docs/tags/portal","allTagsPath":"/docs/tags","count":1,"items":[{"id":"products/Portal/index","title":"Portal","description":"CIROH Research Portal","permalink":"/docs/products/Portal/"}],"unlisted":false}')}}]);
