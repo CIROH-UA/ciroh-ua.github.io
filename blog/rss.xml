@@ -14,8 +14,7 @@
             <guid>http://ciroh.org/blog/October Monthly Blog Update</guid>
             <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[October Monthly Blog Update]]></description>
-            <content:encoded><![CDATA[<p>The 2024 CIROH Science Meeting was a huge success, bringing together researchers, federal partners, and consortium members both in person and virtually. We're excited to share the valuable resources from this year's meeting with the wider CIROH community.
-Presentation Materials Available</p>
+            <content:encoded><![CDATA[<p>The 2024 CIROH Science Meeting was a huge success, bringing together researchers, federal partners, and consortium members both in person and virtually. We're excited to share the valuable resources from this year's meeting with the wider CIROH community.</p>
 <p>Slides and pictures from the various sessions, keynotes, and the Federal Town Hall have all been uploaded to a shared drive for easy access. You can find links to these materials here: <a href="https://drive.google.com/drive/folders/1NsJEWHQBD92ndc3FD_bFEKgqTUqTxVM3" target="_blank" rel="noopener noreferrer">Access the Shared Drive with Presentation Slides</a></p>
 <p>Thank you to everyone who participated in making the 2024 CIROH Science Meeting a resounding success. We look forward to continuing our collaborative research efforts across the consortium.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ciroh-2024-science-meeting-fostering-innovation-in-hydrology">CIROH 2024 Science Meeting: Fostering Innovation in Hydrology<a href="http://ciroh.org/blog/October%20Monthly%20Blog%20Update#ciroh-2024-science-meeting-fostering-innovation-in-hydrology" class="hash-link" aria-label="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology" title="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology">​</a></h2>
@@ -372,9 +371,9 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
             <content:encoded><![CDATA[<p>Welcome to the February edition of the CIROH DocuHub blog, where we bring you the latest updates and news about the Community NextGen project and CIROH's Cloud and on-premise Infrastructure.</p>
 <p>Our team has been hard at work enhancing CIROH's Infrastructure and Community NextGen tools. Here are some highlights from February 2024:</p>
 <ol>
-<li>
-<p>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docs/services/on-prem/">here</a>.</p>
-</li>
+<li>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docs/services/on-prem/">here</a>.</li>
+</ol>
+<ol start="2">
 <li>
 <p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
 </li>

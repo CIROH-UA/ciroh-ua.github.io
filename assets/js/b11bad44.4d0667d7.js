@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[6830],{22474:s=>{s.exports=JSON.parse('{"label":"news","permalink":"/blog/tags/news","allTagsPath":"/blog/tags","count":5,"unlisted":false}')}}]);

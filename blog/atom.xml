@@ -13,8 +13,7 @@
         <link href="http://ciroh.org/blog/October Monthly Blog Update"/>
         <updated>2024-10-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[October Monthly Blog Update]]></summary>
-        <content type="html"><![CDATA[<p>The 2024 CIROH Science Meeting was a huge success, bringing together researchers, federal partners, and consortium members both in person and virtually. We're excited to share the valuable resources from this year's meeting with the wider CIROH community.
-Presentation Materials Available</p>
+        <content type="html"><![CDATA[<p>The 2024 CIROH Science Meeting was a huge success, bringing together researchers, federal partners, and consortium members both in person and virtually. We're excited to share the valuable resources from this year's meeting with the wider CIROH community.</p>
 <p>Slides and pictures from the various sessions, keynotes, and the Federal Town Hall have all been uploaded to a shared drive for easy access. You can find links to these materials here: <a href="https://drive.google.com/drive/folders/1NsJEWHQBD92ndc3FD_bFEKgqTUqTxVM3" target="_blank" rel="noopener noreferrer">Access the Shared Drive with Presentation Slides</a></p>
 <p>Thank you to everyone who participated in making the 2024 CIROH Science Meeting a resounding success. We look forward to continuing our collaborative research efforts across the consortium.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ciroh-2024-science-meeting-fostering-innovation-in-hydrology">CIROH 2024 Science Meeting: Fostering Innovation in Hydrology<a href="http://ciroh.org/blog/October%20Monthly%20Blog%20Update#ciroh-2024-science-meeting-fostering-innovation-in-hydrology" class="hash-link" aria-label="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology" title="Direct link to CIROH 2024 Science Meeting: Fostering Innovation in Hydrology">​</a></h2>
@@ -78,6 +77,10 @@ Presentation Materials Available</p>
 <div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/science-meeting2024-5.jpeg" alt="CIROH 2024 Science Meeting" style="width:100%"></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="http://ciroh.org/blog/October%20Monthly%20Blog%20Update#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
 <p>The 2024 CIROH Science Meeting demonstrated the power of collaboration in advancing hydrology. As we move forward, the energy and insights from this gathering will fuel our continued efforts to enhance water prediction capabilities and serve our communities better.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
         <category label="ciroh" term="ciroh"/>
         <category label="science" term="science"/>
         <category label="conference" term="conference"/>
@@ -114,6 +117,10 @@ Presentation Materials Available</p>
 <li><strong>Open Science Promotion</strong>: By making NWM data more accessible, this partnership supports the principles of open science, encouraging transparency and reproducibility in water resource research.</li>
 </ul>
 <p>This public-private partnership not only enhances the value of the National Water Model but also sets a precedent for future collaborations that can drive innovation in environmental data management and analysis.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
         <category label="bigquery" term="bigquery"/>
         <category label="byu" term="byu"/>
         <category label="nwm" term="nwm"/>
@@ -168,6 +175,10 @@ Presentation Materials Available</p>
 <li><strong>Elastic File System (EFS)</strong> - Shared data drive for cached data and shared documents (notebooks, etc.)</li>
 <li><strong>Simple Storage Service (S3)</strong> - Bucket storage for large public and private datasets</li>
 </ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
         <category label="ciroh" term="ciroh"/>
         <category label="2i2c" term="2i2c"/>
         <category label="aws" term="aws"/>
@@ -211,6 +222,10 @@ Presentation Materials Available</p>
 <div class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/si.jpg" alt="summer-institute-students" style="width:80%"></div>
 <p>For more information on our services, please refer to our <a href="https://docs.ciroh.org/docs/services/intro" target="_blank" rel="noopener noreferrer">services page</a>.</p>
 <p>We're continually working to improve our IT infrastructure and support. If you have any questions or need assistance, don't hesitate to reach out to us at <a href="mailto:ciroh-it-admin@ua.edu" target="_blank" rel="noopener noreferrer">ciroh-it-admin@ua.edu</a>.</p>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
         <category label="ciroh" term="ciroh"/>
         <category label="2i2c" term="2i2c"/>
         <category label="google" term="google"/>
@@ -387,9 +402,9 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         <content type="html"><![CDATA[<p>Welcome to the February edition of the CIROH DocuHub blog, where we bring you the latest updates and news about the Community NextGen project and CIROH's Cloud and on-premise Infrastructure.</p>
 <p>Our team has been hard at work enhancing CIROH's Infrastructure and Community NextGen tools. Here are some highlights from February 2024:</p>
 <ol>
-<li>
-<p>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docs/services/on-prem/">here</a>.</p>
-</li>
+<li>We successfully launched our new On-premises Infrastructure, which is now fully operational. You can find documentation for it <a href="http://ciroh.org/docs/services/on-prem/">here</a>.</li>
+</ol>
+<ol start="2">
 <li>
 <p>For NGIAB, we've made improvements to the CI pipeline for pull requests submitted with forked repositories. Now, we automatically build and test these submissions using the CI pipeline.</p>
 </li>
