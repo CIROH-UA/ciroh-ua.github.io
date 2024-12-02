@@ -4,10 +4,75 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Tue, 29 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Community NextGen Updates]]></title>
+            <link>http://ciroh.org/blog/November Monthly Blog Update</link>
+            <guid>http://ciroh.org/blog/November Monthly Blog Update</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[November Monthly Blog Update]]></description>
+            <content:encoded><![CDATA[<p>The Community NextGen framework has seen significant advancements in November 2024, with major updates across multiple components and exciting new resources for users. Let's dive into the key developments that are making hydrologic modeling more accessible and powerful than ever.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ngiab-cloudinfra-v130-a-major-milestone">🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#-ngiab-cloudinfra-v130-a-major-milestone" class="hash-link" aria-label="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone" title="Direct link to 🎉 NGIAB-CloudInfra v1.3.0: A Major Milestone">​</a></h2>
+<p>The release of NGIAB-CloudInfra v1.3.0 marks a significant evolution in our Docker-based solution. This version introduces several groundbreaking improvements:</p>
+<ul>
+<li>Integration with CIROH-UA's forked repositories of <code>ngen</code> and <code>t-route</code></li>
+<li>Full compatibility with the latest hydrofabric v2.2</li>
+<li>New sample input data AWI-007</li>
+<li>Enhanced visualization capabilities through the NGIAB Visualizer</li>
+<li>Streamlined CI/CD pipeline with a unified Dockerfile</li>
+<li>TEEHR integration for improved evaluation capabilities</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-new-end-to-end-workflow-guide">📝 New End-to-End Workflow Guide<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#-new-end-to-end-workflow-guide" class="hash-link" aria-label="Direct link to 📝 New End-to-End Workflow Guide" title="Direct link to 📝 New End-to-End Workflow Guide">​</a></h2>
+<p>We're excited to announce a comprehensive new end-to-end workflow video tutorial for NGIAB! This resource walks users through the entire process, making it easier than ever to get started with NextGen modeling. The tutorial is available in our <a href="https://docs.ciroh.org/docs/products/Community%20Hydrologic%20Modeling%20Framework/nextgeninaboxDocker/workflow" target="_blank" rel="noopener noreferrer">documentation</a> and provides step-by-step guidance for both new and experienced users.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-infrastructure-updates">🔄 Infrastructure Updates<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#-infrastructure-updates" class="hash-link" aria-label="Direct link to 🔄 Infrastructure Updates" title="Direct link to 🔄 Infrastructure Updates">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ngiab-hpcinfra">NGIAB-HPCInfra<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#ngiab-hpcinfra" class="hash-link" aria-label="Direct link to NGIAB-HPCInfra" title="Direct link to NGIAB-HPCInfra">​</a></h3>
+<p>The Singularity-based solution for high-performance computing has been updated to maintain parity with the Docker implementation, including:</p>
+<ul>
+<li>Updated repositories alignment</li>
+<li>New sample data compatibility</li>
+<li>Enhanced documentation</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-processing-tools">Data Processing Tools<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#data-processing-tools" class="hash-link" aria-label="Direct link to Data Processing Tools" title="Direct link to Data Processing Tools">​</a></h3>
+<ul>
+<li><strong>NGIAB-data-preprocess v3.1.2</strong>: Major update ensuring seamless compatibility with hydrofabric v2.2</li>
+<li><strong>ngen-datastream</strong>: Significant improvements with 22 new commits enhancing data handling capabilities</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🌟 New Features<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#-new-features" class="hash-link" aria-label="Direct link to 🌟 New Features" title="Direct link to 🌟 New Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="hydrofabric-v22">Hydrofabric v2.2<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#hydrofabric-v22" class="hash-link" aria-label="Direct link to Hydrofabric v2.2" title="Direct link to Hydrofabric v2.2">​</a></h3>
+<p>The latest hydrofabric data model brings improved spatial representation and data organization. This update enhances the framework's ability to represent complex hydrologic systems accurately.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="repository-updates">Repository Updates<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#repository-updates" class="hash-link" aria-label="Direct link to Repository Updates" title="Direct link to Repository Updates">​</a></h3>
+<ul>
+<li>The NextGen Model Framework now operates from CIROH-UA's main branch</li>
+<li>T-route implementation has been updated to use the specialized datastream branch</li>
+<li>Both updates provide better integration and enhanced functionality within the NGIAB ecosystem</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's Next?<a href="http://ciroh.org/blog/November%20Monthly%20Blog%20Update#whats-next" class="hash-link" aria-label="Direct link to What's Next?" title="Direct link to What's Next?">​</a></h2>
+<p>These November updates represent our ongoing commitment to improving the NextGen framework's accessibility and capabilities. With the new workflow video and documentation in place, we're making it easier than ever for the hydrologic modeling community to leverage these powerful tools.</p>
+<p>We encourage users to:</p>
+<ol>
+<li>Explore the new v1.3.0 release</li>
+<li>Watch the end-to-end workflow video</li>
+<li>Test out the updated data preprocess and NGIAB tools</li>
+<li>Provide feedback on your experience</li>
+</ol>
+<p>Stay tuned for more updates as we continue to enhance and expand the NextGen In A Box ecosystem!</p>
+<hr>
+<p>For detailed information about these updates, visit our repositories:</p>
+<ul>
+<li><a href="https://github.com/CIROH-UA/NGIAB-CloudInfra" target="_blank" rel="noopener noreferrer">NGIAB-CloudInfra</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB-HPCInfra" target="_blank" rel="noopener noreferrer">NGIAB-HPCInfra</a></li>
+<li><a href="https://github.com/CIROH-UA/ngen-datastream" target="_blank" rel="noopener noreferrer">ngen-datastream</a></li>
+<li><a href="https://github.com/CIROH-UA/NGIAB_data_preprocess" target="_blank" rel="noopener noreferrer">NGIAB-data-preprocess</a></li>
+</ul>]]></content:encoded>
+            <category>ngiab</category>
+            <category>nextgen</category>
+            <category>workflow</category>
+            <category>visualize</category>
+            <category>evaluate</category>
+        </item>
         <item>
             <title><![CDATA[CIROH Science Meeting 2024]]></title>
             <link>http://ciroh.org/blog/October Monthly Blog Update</link>
