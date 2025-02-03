@@ -97,6 +97,10 @@ and community water modeling.</p>
 <li><a href="https://github.com/CIROH-UA/ngen-datastream" target="_blank" rel="noopener noreferrer">ngen-datastream</a></li>
 <li><a href="https://github.com/CIROH-UA/NGIAB_data_preprocess" target="_blank" rel="noopener noreferrer">NGIAB-data-preprocess</a></li>
 </ul>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
         <category label="ngiab" term="ngiab"/>
         <category label="nextgen" term="nextgen"/>
         <category label="workflow" term="workflow"/>
@@ -631,7 +635,7 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
 <p><a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">Visit Github</a></p>]]></content>
         <author>
             <name>Jordan Laser</name>
-            <uri>https://github.com/orgs/CIROH-UA/people/JordanLaserGit</uri>
+            <uri>https://github.com/JordanLaserGit</uri>
         </author>
         <category label="nextgen" term="nextgen"/>
     </entry>
