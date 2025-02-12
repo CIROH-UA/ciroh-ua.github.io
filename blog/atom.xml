@@ -200,7 +200,7 @@ and community water modeling.</p>
 <table style="width:100%;display:inline-table"><tbody><tr><td>Product</td><td>Cloud Console SQL</td><td>CIROH API</td><td>Historical</td><td>Daily Updates</td></tr><tr><td>Medium-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Long-range forecasts</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Analysis and Assimilation</td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>Retrospective Data (NWM v3)</td><td>X</td><td></td><td>X</td><td></td></tr><tr><td>Return Periods</td><td>X</td><td></td><td>X</td><td></td></tr></tbody></table>
 <p>To gain access and run queries on BigQuery:</p>
 <ul>
-<li>Submit the NWM BigQuery API Access Form, available at: <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigqeury-api/" target="_blank" rel="noopener noreferrer">https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigqeury-api/</a></li>
+<li>Submit the NWM BigQuery API Access Form, available <a href="https://docs.ciroh.org/docs/products/Data%20Management%20and%20Access%20Tools/bigquery-api/" target="_blank" rel="noopener noreferrer">here.</a></li>
 <li>Once approved, the CIROH IT team will cover the costs associated with your queries.</li>
 <li>Initially, each organization or project may request a usage limit of up to $500 per month for accessing the data through BigQuery.</li>
 </ul>
