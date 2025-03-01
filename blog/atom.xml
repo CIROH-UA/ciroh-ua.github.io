@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2024-12-19T00:00:00.000Z</updated>
+    <updated>2025-02-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/img/docuhub-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Pennsylvania State University Researchers Leverage CIROH Cyberinfrastructure for Advanced Hydrological Modeling ]]></title>
+        <id>http://ciroh.org/blog/February Monthly Blog Update</id>
+        <link href="http://ciroh.org/blog/February Monthly Blog Update"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[February Monthly Blog Update]]></summary>
+        <content type="html"><![CDATA[<p>Pennsylvania State University (PSU) researchers have been leveraging CIROH Cyberinfrastructure to tackle complex hydrological modeling challenges. This post highlights their innovative approach using the <a href="https://docs.ciroh.org/docs/services/on-prem/Wukong/" target="_blank" rel="noopener noreferrer">Wukong computing platform</a> in conjunction with Amazon S3 bucket storage to efficiently process and analyze large-scale environmental datasets. 🚀</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-the-computing-and-storage-infrastructure">💻 The Computing and Storage Infrastructure<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#-the-computing-and-storage-infrastructure" class="hash-link" aria-label="Direct link to 💻 The Computing and Storage Infrastructure" title="Direct link to 💻 The Computing and Storage Infrastructure">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wukong-computing-platform"><strong>Wukong Computing Platform</strong><a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#wukong-computing-platform" class="hash-link" aria-label="Direct link to wukong-computing-platform" title="Direct link to wukong-computing-platform">​</a></h3>
+<p>The PSU team has been utilizing Wukong, a high-performance computing (HPC) cluster specifically designed for data-intensive scientific applications, such as the high-resolution physics-informed machine learning for national water modeling (Song et al. 2024[YS1] ). Wukong provides the computational power necessary for running complex simulations and processing large environmental datasets that traditional computing resources would struggle with. 🔍</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-advantages-of-wukong-include">Key advantages of Wukong include:<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#key-advantages-of-wukong-include" class="hash-link" aria-label="Direct link to Key advantages of Wukong include:" title="Direct link to Key advantages of Wukong include:">​</a></h4>
+<ul>
+<li>
+<p>🎯 <strong>Large GPU capacity</strong> for high-resolution ML/differentiable process-based models</p>
+</li>
+<li>
+<p>⚙️ <strong>Scalable parallel processing</strong> capabilities</p>
+</li>
+<li>
+<p>🚀 <strong>Optimized performance</strong> for data-intensive workloads</p>
+</li>
+<li>
+<p>⏳ <strong>Reduced processing time</strong> for big data</p>
+</li>
+<li>
+<p>🌐 <strong>Support for multi-node computation</strong> to handle larger geographical areas</p>
+</li>
+<li>
+<p>☁️ <strong>S3 Bucket Integration</strong>: To complement Wukong’s computational power, the PSU researchers and AWI DevOps staff implemented <strong>Amazon S3 (Simple Storage Service)</strong> buckets as their secondary data storage solution. This integration offers several benefits:</p>
+</li>
+<li>
+<p>🗄️ <strong>Virtually unlimited storage capacity</strong> for growing datasets</p>
+</li>
+<li>
+<p>🔒 <strong>Data durability and redundancy</strong></p>
+</li>
+<li>
+<p>💰 <strong>Cost-effective long-term storage</strong></p>
+</li>
+<li>
+<p>🔄 <strong>Seamless data transfer</strong> between computing nodes</p>
+</li>
+<li>
+<p>📝 <strong>Version control</strong> for dataset iterations</p>
+</li>
+<li>
+<p>🤝 <strong>Easy data sharing</strong> with users not on Wukong</p>
+</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-research-applications">🔬 Research Applications<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#-research-applications" class="hash-link" aria-label="Direct link to 🔬 Research Applications" title="Direct link to 🔬 Research Applications">​</a></h2>
+<p>The PSU team has applied this powerful computing infrastructure to several critical research areas:</p>
+<ol>
+<li>
+<p><strong>National Streamflow Modeling</strong> 🌊<br>
+<!-- -->Training differentiable hydrologic models with high-resolution forcing and static attribute data across extensive geographical regions using observations from thousands of gauges, followed by whole-domain forwarding.</p>
+</li>
+<li>
+<p><strong>National River Routing</strong> 🗺️<br>
+<!-- -->Conducting river routing on MERIT/HydroFabric river networks, combined with neural network-supported routing parameter learning.</p>
+</li>
+<li>
+<p><strong>NextGen Candidate Models &amp; Data Assimilation</strong> 🔄<br>
+<!-- -->Applying multiple NextGen candidate models and data assimilation algorithms within the differentiable modeling framework, which supports compliance with BMI.</p>
+</li>
+<li>
+<p><strong>Foundation Model Development</strong> 🏞️<br>
+<!-- -->Developing a foundation model to explore co-evolution between landscapes.</p>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-learn-more">🔗 Learn More<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#-learn-more" class="hash-link" aria-label="Direct link to 🔗 Learn More" title="Direct link to 🔗 Learn More">​</a></h2>
+<p>For more details on the Wukong computing platform, check out the official documentation:<br>
+<!-- -->👉 <a href="https://docs.ciroh.org/docs/services/on-prem/Wukong/" target="_blank" rel="noopener noreferrer">Wukong Documentation</a></p>
+<p>For the full research paper by Song et al. (2024), visit:<br>
+<!-- -->👉 <a href="https://doi.org/10.22541/essoar.172736277.74497104/v1" target="_blank" rel="noopener noreferrer">DOI: 10.22541/essoar.172736277.74497104/v1</a></p>
+<hr>]]></content>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>Yalan Song</name>
+            <uri>https://www.linkedin.com/in/yalan-song-psu/</uri>
+        </author>
+        <category label="ciroh" term="ciroh"/>
+        <category label="science" term="science"/>
+        <category label="conference" term="conference"/>
+        <category label="impact" term="impact"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIROH at AGU 2024]]></title>
         <id>http://ciroh.org/blog/December Monthly Blog Update</id>
