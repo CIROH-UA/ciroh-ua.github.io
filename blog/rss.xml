@@ -21,42 +21,21 @@
 <p>The PSU team has been utilizing Wukong, a high-performance computing (HPC) cluster specifically designed for data-intensive scientific applications, such as the high-resolution physics-informed machine learning for national water modeling (Song et al. 2024[YS1] ). Wukong provides the computational power necessary for running complex simulations and processing large environmental datasets that traditional computing resources would struggle with. 🔍</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="key-advantages-of-wukong-include">Key advantages of Wukong include:<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#key-advantages-of-wukong-include" class="hash-link" aria-label="Direct link to Key advantages of Wukong include:" title="Direct link to Key advantages of Wukong include:">​</a></h4>
 <ul>
-<li>
-<p>🎯 <strong>Large GPU capacity</strong> for high-resolution ML/differentiable process-based models</p>
-</li>
-<li>
-<p>⚙️ <strong>Scalable parallel processing</strong> capabilities</p>
-</li>
-<li>
-<p>🚀 <strong>Optimized performance</strong> for data-intensive workloads</p>
-</li>
-<li>
-<p>⏳ <strong>Reduced processing time</strong> for big data</p>
-</li>
-<li>
-<p>🌐 <strong>Support for multi-node computation</strong> to handle larger geographical areas</p>
-</li>
-<li>
-<p>☁️ <strong>S3 Bucket Integration</strong>: To complement Wukong’s computational power, the PSU researchers and AWI DevOps staff implemented <strong>Amazon S3 (Simple Storage Service)</strong> buckets as their secondary data storage solution. This integration offers several benefits:</p>
-</li>
-<li>
-<p>🗄️ <strong>Virtually unlimited storage capacity</strong> for growing datasets</p>
-</li>
-<li>
-<p>🔒 <strong>Data durability and redundancy</strong></p>
-</li>
-<li>
-<p>💰 <strong>Cost-effective long-term storage</strong></p>
-</li>
-<li>
-<p>🔄 <strong>Seamless data transfer</strong> between computing nodes</p>
-</li>
-<li>
-<p>📝 <strong>Version control</strong> for dataset iterations</p>
-</li>
-<li>
-<p>🤝 <strong>Easy data sharing</strong> with users not on Wukong</p>
-</li>
+<li>🎯 <strong>Large GPU capacity</strong> for high-resolution ML/differentiable process-based models</li>
+<li>⚙️ <strong>Scalable parallel processing</strong> capabilities</li>
+<li>🚀 <strong>Optimized performance</strong> for data-intensive workloads</li>
+<li>⏳ <strong>Reduced processing time</strong> for big data</li>
+<li>🌐 <strong>Support for multi-node computation</strong> to handle larger geographical areas</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="s3-bucket-integration"><strong>S3 Bucket Integration</strong>:<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#s3-bucket-integration" class="hash-link" aria-label="Direct link to s3-bucket-integration" title="Direct link to s3-bucket-integration">​</a></h4>
+<p>To complement Wukong’s computational power, the PSU researchers and AWI DevOps staff implemented <strong>Amazon S3 (Simple Storage Service)</strong> buckets as their secondary data storage solution. This integration offers several benefits:</p>
+<ul>
+<li>🗄️ <strong>Virtually unlimited storage capacity</strong> for growing datasets</li>
+<li>🔒 <strong>Data durability and redundancy</strong></li>
+<li>💰 <strong>Cost-effective long-term storage</strong>, with the use of S3 intelligent tiering to automate the storage cost savings by moving data when access patterns change</li>
+<li>🔄 <strong>Seamless data transfer</strong> between computing nodes</li>
+<li>📝 <strong>Version control</strong> for dataset iterations</li>
+<li>🤝 <strong>Easy data sharing</strong> with users not on Wukong</li>
 </ul>
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-research-applications">🔬 Research Applications<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#-research-applications" class="hash-link" aria-label="Direct link to 🔬 Research Applications" title="Direct link to 🔬 Research Applications">​</a></h2>
