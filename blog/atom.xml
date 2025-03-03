@@ -50,7 +50,7 @@
 </li>
 <li>
 <p><strong>NextGen Candidate Models &amp; Data Assimilation</strong> 🔄<br>
-<!-- -->Applying multiple NextGen candidate models and data assimilation algorithms within the differentiable modeling framework, which supports compliance with BMI.</p>
+<!-- -->Applying multiple NextGen candidate models and data assimilation algorithms within the differentiable modeling framework, which supports compliance with <a href="https://doi.org/10.5281/zenodo.14827983" target="_blank" rel="noopener noreferrer">BMI</a>.</p>
 </li>
 <li>
 <p><strong>Foundation Model Development</strong> 🏞️<br>
@@ -58,6 +58,7 @@
 </li>
 </ol>
 <hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="thank-you-to-all-those-who-contributed-towards-this-effort">Thank you to all those who contributed towards this effort.<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#thank-you-to-all-those-who-contributed-towards-this-effort" class="hash-link" aria-label="Direct link to Thank you to all those who contributed towards this effort." title="Direct link to Thank you to all those who contributed towards this effort.">​</a></h3>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-learn-more">🔗 Learn More<a href="http://ciroh.org/blog/February%20Monthly%20Blog%20Update#-learn-more" class="hash-link" aria-label="Direct link to 🔗 Learn More" title="Direct link to 🔗 Learn More">​</a></h2>
 <p>For more details on the Wukong computing platform, check out the official documentation:<br>
 <!-- -->👉 <a href="https://docs.ciroh.org/docs/services/on-prem/Wukong/" target="_blank" rel="noopener noreferrer">Wukong Documentation</a></p>
@@ -71,6 +72,10 @@
         <author>
             <name>Yalan Song</name>
             <uri>https://www.linkedin.com/in/yalan-song-psu/</uri>
+        </author>
+        <author>
+            <name>Tadd Bindas</name>
+            <uri>https://www.linkedin.com/in/taddbindas/</uri>
         </author>
         <category label="ciroh" term="ciroh"/>
         <category label="science" term="science"/>
