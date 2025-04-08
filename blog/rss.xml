@@ -4,10 +4,31 @@
         <title>CIROH DocuHub Blog</title>
         <link>http://ciroh.org/blog</link>
         <description>CIROH DocuHub Blog</description>
-        <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[🌟 UA's Alabama Water Institute Showcases 30-Minute Hydrological Modeling Revolution🌟]]></title>
+            <link>http://ciroh.org/blog/march-2025-update</link>
+            <guid>http://ciroh.org/blog/march-2025-update</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[AWI News talks about NGIAB]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-awi-news">🌍 AWI News<a href="http://ciroh.org/blog/march-2025-update#-awi-news" class="hash-link" aria-label="Direct link to 🌍 AWI News" title="Direct link to 🌍 AWI News">​</a></h2>
+<p>The Alabama Water Institute (AWI) at the University of Alabama (UA) recently published an article highlighting how NextGen In A Box (NGIAB) could transform hydrological modeling. This article provides great insight into NGIAB's real-world impact:</p>
+<ul>
+<li>🚀<strong>30-minute setup</strong> vs days/weeks of configuration</li>
+<li>📖 <strong>Provo River Basin Case Study</strong> demonstrating rapid deployment</li>
+</ul>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/NGIAB-logo.jpg" alt="ngiab image" style="width:30%"></span>
+<p><a href="https://awi.ua.edu/news/nextgen-in-a-box-ngiab-revolutionizing-hydrological-modeling-with-a-30-minute-setup/" target="_blank" rel="noopener noreferrer">➡️ Read the full press release here!</a></p>
+<hr>]]></content:encoded>
+            <category>ciroh</category>
+            <category>science</category>
+            <category>ngiab</category>
+            <category>hydrology</category>
+            <category>documentation</category>
+        </item>
         <item>
             <title><![CDATA[Pennsylvania State University Researchers Leverage CIROH Cyberinfrastructure for Advanced Hydrological Modeling ]]></title>
             <link>http://ciroh.org/blog/February Monthly Blog Update</link>
@@ -245,7 +266,7 @@ and community water modeling.</p>
             <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[September Monthly Blog Update]]></description>
             <content:encoded><![CDATA[<img src="http://ciroh.org/img/gcp_architecture_diagram.png" alt="gcp architectrure diagram">
-<i>Image Source: <a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp"></a><a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer">https://github.com/BYU-Hydroinformatics/api-nwm-gcp</a> </i>
+<i>Image Source: <a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer"></a><a href="https://github.com/BYU-Hydroinformatics/api-nwm-gcp" target="_blank" rel="noopener noreferrer">https://github.com/BYU-Hydroinformatics/api-nwm-gcp</a> </i>
 <br>
 <br>
 <p>Several important historical and ongoing National Water Model (NWM) datasets are now available on Google Cloud BigQuery, which makes them queryable through SQL using Google Cloud console. Some of these data sets are also accessible through an API (e.g. using Python). These datasets and their current status are as follows:</p>
@@ -286,7 +307,7 @@ and community water modeling.</p>
             <description><![CDATA[August Monthly Blog Update]]></description>
             <content:encoded><![CDATA[<p>This month, we are excited to showcase two case studies that utilized our cyberinfrastructure tools and services. These case studies demonstrate how CIROH's cyberinfrastructure is being utilized to support hydrological research and operational advancements.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-ngen-datastream-and-ngiab">1. ngen-datastream and NGIAB<a href="http://ciroh.org/blog/August%20Monthly%20Blog%20Update#1-ngen-datastream-and-ngiab" class="hash-link" aria-label="Direct link to 1. ngen-datastream and NGIAB" title="Direct link to 1. ngen-datastream and NGIAB">​</a></h2>
-<span class="hero-image" style="text-align:center"><img src="https://github.com/CIROH-UA/ngen-datastream/blob/main/docs/images/ngen-datastream.jpg?raw=true" alt="ngen-datastream image" style="width:80%"></span>
+<span class="hero-image" style="text-align:center"><img src="http://ciroh.org/img/ngen-datastream-august-blog.jpg" alt="ngen-datastream image" style="width:80%"></span>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview:<a href="http://ciroh.org/blog/August%20Monthly%20Blog%20Update#overview" class="hash-link" aria-label="Direct link to Overview:" title="Direct link to Overview:">​</a></h3>
 <p>CIROH’s cloud computing resources have allowed for the development of ngen-datastream, which automates the process of collecting and formatting input data for NextGen, orchestrating the NextGen run through NextGen In a Box (NGIAB), and handling outputs. This software allows users to run NextGen in an efficient, relatively painless, and reproducible fashion, increasing community access to the NextGen framework. ngen-datastream is already community accessible (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main</a>) and making an impact on research.  A major component of this software is the Amazon Web Services (AWS) cloud-based research datastream (<a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream" target="_blank" rel="noopener noreferrer">https://github.com/CIROH-UA/ngen-datastream/tree/main/research_datastream</a>). The research datastream is a CONUS-wide recurring NextGen simulation configured by the community. The terraform to build the AWS infrastructure exists in the ngen-datastream repository and current development focuses on CI/CD and enabling community contribution to the research datastream via edits to the NextGen configuration. Ultimately, these tools help distribute access throughout the community to cutting edge hydrologic research, maximizing the pace of progress of research to operations in hydrology.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="contribution-to-ciroh">Contribution to CIROH:<a href="http://ciroh.org/blog/August%20Monthly%20Blog%20Update#contribution-to-ciroh" class="hash-link" aria-label="Direct link to Contribution to CIROH:" title="Direct link to Contribution to CIROH:">​</a></h3>
