@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([[2437],{1664:e=>{e.exports=JSON.parse('{"tags":[{"label":"Release Notes","permalink":"/release-notes/tags/release-notes","count":3},{"label":"DocuHub","permalink":"/release-notes/tags/docu-hub","count":3}]}')}}]);
