@@ -2,11 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ciroh.org/blog</id>
     <title>CIROH DocuHub Blog</title>
-    <updated>2025-04-15T00:00:00.000Z</updated>
+    <updated>2025-05-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ciroh.org/blog"/>
     <subtitle>CIROH DocuHub Blog</subtitle>
     <icon>http://ciroh.org/img/logos/docuhub.png</icon>
+    <entry>
+        <title type="html"><![CDATA[δHBV2.0: How NGIAB and Wukong HPC Streamlined Advanced Hydrologic Modeling]]></title>
+        <id>http://ciroh.org/blog/may-2025-update</id>
+        <link href="http://ciroh.org/blog/may-2025-update"/>
+        <updated>2025-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's how NGIAB and Wukong HPC enabled researchers at Pennsylvania State University to create advanced models!]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Image of graphical outputs from the δHBV2.0 model" src="http://ciroh.org/assets/images/img-e699e9df162042eda9a4a1b4a242ffb1.jpg" width="1966" height="1544" class="img_ev3q"></p>
+<p>Predicting water flow with precision across the vast U.S. landscape is a complex challenge. That's why Song et al. 2024 developed δHBV2.0, a cutting-edge hydrologic model. It’s built with high-resolution modeling of physics to deliver seamless, highly accurate streamflow simulations, even down to individual sub-basins. It's already proven to be a major improvement, performing better than older tools at about 4,000 measurement sites. We also provide a comprehensive 40-year water dataset for ~180,000 river reaches to support this.</p>
+<p>Penn State research group pushed δHBV2.0 further, training it with even more detailed river data and integrating other trusted models, aiming to make it a key part of the NextGen national water modeling system (as a potential NWM3.0 successor). But here’s a common hurdle: making powerful scientific tools like this easy and reliable for everyone to use within a larger framework can be tough. Setup issues, runtime errors, and inconsistent results can frustrate users.</p>
+<p>NGIAB stepped in to solve exactly this problem. Team has taken the complexity out of using the operations-ready models within NextGen by creating one unified, reliable package. Thanks to NGIAB, users don't have to worry about tricky setups or whether the model will run correctly. NGIAB ensures that our models are compatible everywhere and, most importantly, that they run exactly as designed, consistently and faithfully, every single time, no babysitting required. This means users get the full power of our advanced modeling, without the headaches.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-learn-more">🔗 Learn more<a href="http://ciroh.org/blog/may-2025-update#-learn-more" class="hash-link" aria-label="Direct link to 🔗 Learn more" title="Direct link to 🔗 Learn more">​</a></h2>
+<p>δHBV2.0: <a href="https://doi.org/10.5281/zenodo.14827983" target="_blank" rel="noopener noreferrer">https://doi.org/10.5281/zenodo.14827983</a></p>
+<p>Song et al. 2024: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038928" target="_blank" rel="noopener noreferrer">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR038928</a></p>
+<p>Dataset: <a href="https://doi.org/10.5281/zenodo.13774373" target="_blank" rel="noopener noreferrer">https://doi.org/10.5281/zenodo.13774373</a></p>]]></content>
+        <author>
+            <name>Yalan Song</name>
+            <uri>https://www.linkedin.com/in/yalan-song-psu/</uri>
+        </author>
+        <author>
+            <name>Leo Lonzarich</name>
+            <uri>https://www.linkedin.com/in/leoglonz</uri>
+        </author>
+        <author>
+            <name>Arpita Patel</name>
+            <uri>https://github.com/arpita0911patel</uri>
+        </author>
+        <author>
+            <name>James Halgren</name>
+            <uri>https://github.com/jameshalgren</uri>
+        </author>
+        <category label="CIROH" term="CIROH"/>
+        <category label="Blog" term="Blog"/>
+        <category label="Pennsylvania State University" term="Pennsylvania State University"/>
+        <category label="Monthly Update" term="Monthly Update"/>
+        <category label="Wukong" term="Wukong"/>
+        <category label="AWS" term="AWS"/>
+        <category label="HPC" term="HPC"/>
+        <category label="NGIAB" term="NGIAB"/>
+        <category label="National Water Model" term="National Water Model"/>
+        <category label="On-Premises Services" term="On-Premises Services"/>
+        <category label="Cloud Services" term="Cloud Services"/>
+        <category label="AI and Machine Learning" term="AI and Machine Learning"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Next 2025: Innovation at Scale ✨]]></title>
         <id>http://ciroh.org/blog/april-2025-update</id>
@@ -72,6 +115,7 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
         <category label="Conference" term="Conference"/>
         <category label="Google Cloud" term="Google Cloud"/>
         <category label="Google Cloud Next" term="Google Cloud Next"/>
+        <category label="AI and Machine Learning" term="AI and Machine Learning"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌟 UA's Alabama Water Institute Showcases 30-Minute Hydrological Modeling Revolution🌟]]></title>
@@ -179,6 +223,7 @@ Great to see how Gemini is transforming data manipulation in BigQuery. The abili
         <category label="National Water Model" term="National Water Model"/>
         <category label="On-Premises Services" term="On-Premises Services"/>
         <category label="Cloud Services" term="Cloud Services"/>
+        <category label="AI and Machine Learning" term="AI and Machine Learning"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[CIROH at AGU 2024]]></title>
@@ -556,6 +601,7 @@ and community water modeling.</p>
         <category label="NGIAB" term="NGIAB"/>
         <category label="Flood Inundation Mapping" term="Flood Inundation Mapping"/>
         <category label="National Water Model" term="National Water Model"/>
+        <category label="AI and Machine Learning" term="AI and Machine Learning"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWRA 2024 Spring Conference]]></title>
@@ -832,25 +878,5 @@ This LinkedIn event offers a comprehensive overview of the key takeaways and tec
         </author>
         <category label="Blog" term="Blog"/>
         <category label="DocuHub" term="DocuHub"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NextGen Framework Forcings]]></title>
-        <id>http://ciroh.org/blog/NextGen Forcings</id>
-        <link href="http://ciroh.org/blog/NextGen Forcings"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NextGen Framework Forcings]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nextgen-framework-forcings">NextGen Framework Forcings<a href="http://ciroh.org/blog/NextGen%20Forcings#nextgen-framework-forcings" class="hash-link" aria-label="Direct link to NextGen Framework Forcings" title="Direct link to NextGen Framework Forcings">​</a></h2>
-<p>A new <a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">forcing processor</a> tool has been made public. This tool converts any National Water Model based forcing files into ngen forcing files. This process can be an intensive operation in compute, memory, and IO, so this tool facilitates generating ngen input and ultimately makes running ngen more accessible.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="read-more">Read more<a href="http://ciroh.org/blog/NextGen%20Forcings#read-more" class="hash-link" aria-label="Direct link to Read more" title="Direct link to Read more">​</a></h3>
-<p><a href="https://github.com/CIROH-UA/ngen-datastream/tree/main/forcingprocessor" target="_blank" rel="noopener noreferrer">Visit Github</a></p>]]></content>
-        <author>
-            <name>Jordan Laser</name>
-            <uri>https://github.com/JordanLaserGit</uri>
-        </author>
-        <category label="NGIAB" term="NGIAB"/>
-        <category label="NextGen Datastream" term="NextGen Datastream"/>
-        <category label="National Water Model" term="National Water Model"/>
-        <category label="Blog" term="Blog"/>
-        <category label="CIROH" term="CIROH"/>
     </entry>
 </feed>
